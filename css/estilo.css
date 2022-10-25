@@ -41,6 +41,11 @@ figcaption {
     width: 100%;
 }
 /* Corpo Principal */
+.observacao {
+    font-size: 15px;
+    text-align: center;
+    width: 800px;
+}
 h1 {
     text-align: center;
     border: 2px solid black;
